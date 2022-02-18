@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Feb 18 09:42:55 2022
-
-@author: KyleSchneider
-"""
-
 import numpy as np
 
 def check_prime(val):
